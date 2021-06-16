@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e85d2aa-3c8e-46f7-9773-c29c490d8d43" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\lgl\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\workApp\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1u1aUAaf0SL7ZEQrE6tn97hqs3S" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YyghParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yygh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shangyitong.yygh.YyghParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e85d2aa-3c8e-46f7-9773-c29c490d8d43" name="默认的" comment="" />
+      <created>1623835561581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623835561581</updated>
+      <workItem from="1623835563461" duration="185000" />
+      <workItem from="1623835762257" duration="419000" />
+      <workItem from="1623836199019" duration="3290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="356" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623836222983">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.1065.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1623836222983" />
+    <state x="823" y="361" key="new project wizard" timestamp="1623836552637">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="823" y="361" key="new project wizard/-1920.1065.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1623836552637" />
+  </component>
+</project>
