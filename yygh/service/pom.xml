@@ -15,8 +15,14 @@
     <modules>
         <module>service_hosp</module>
         <module>service_user</module>
+        <module>service_cmn</module>
     </modules>
     <dependencies>
+        <dependency>
+            <groupId>com.shangyitong</groupId>
+            <artifactId>model</artifactId>
+            <version>1.0</version>
+        </dependency>
         <dependency>
             <groupId>com.shangyitong</groupId>
             <artifactId>service_util</artifactId>
